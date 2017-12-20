@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="edit">Edit</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+    <string name="purchased">Purchased</string>
+    <string name="item_name">Item Name</string>
+    <string name="estimated_price">Estimated Price</string>
+    <string name="category">Category: food, electronic, book, etc</string>
+    <string name="save">Save</string>
+    <string name="dollar">$</string>
+    <string name="list_cleared">List Cleared</string>
+    <string name="new_item">Creating new item</string>
+    <string name="delete_all_items">Delete All Items</string>
+    <string name="add_item">Add Item</string>
+    <string name="food">food</string>
+    <string name="electronic">electronic</string>
+    <string name="book">book</string>
+</resources>
